@@ -1,0 +1,15 @@
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.deps.json
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.json
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.runtimeconfig.dev.json
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.dll
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csprojAssemblyReference.cache
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.AssemblyInfo.cs
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\WebApplication3.pdb
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.dll
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.2\WebApplication3.pdb
+C:\Users\grankina\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.2\DAL.dll

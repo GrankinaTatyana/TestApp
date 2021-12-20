@@ -1,0 +1,12 @@
+C:\Users\grankina\source\repos\WebApplication3\DAL\obj\Debug\netcoreapp2.2\DAL.csprojAssemblyReference.cache
+C:\Users\grankina\source\repos\WebApplication3\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CoreCompileInputs.cache
+C:\Users\grankina\source\repos\WebApplication3\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfoInputs.cache
+C:\Users\grankina\source\repos\WebApplication3\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfo.cs
+C:\Users\grankina\source\repos\WebApplication3\DAL\bin\Debug\netcoreapp2.2\DAL.deps.json
+C:\Users\grankina\source\repos\WebApplication3\DAL\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\grankina\source\repos\WebApplication3\DAL\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\grankina\source\repos\WebApplication3\DAL\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\grankina\source\repos\WebApplication3\DAL\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\grankina\source\repos\WebApplication3\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CopyComplete
+C:\Users\grankina\source\repos\WebApplication3\DAL\obj\Debug\netcoreapp2.2\DAL.dll
+C:\Users\grankina\source\repos\WebApplication3\DAL\obj\Debug\netcoreapp2.2\DAL.pdb

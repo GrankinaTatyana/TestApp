@@ -1,0 +1,2 @@
+﻿dotnet ef dbcontext scaffold "Server=10.0.2.41;Database=WSLawyer;user id=sa;password=9q8W7e6R5t4y3u2i1o0P;" Microsoft.EntityFrameworkCore.SqlServer -c WsLawyerDbContext -p DAL -o ../DAL/WSLawyer -f --startup-project RobotCuratorApi
+
